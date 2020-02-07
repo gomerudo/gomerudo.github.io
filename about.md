@@ -9,18 +9,25 @@ permalink: /about/
 <br/>
 Hi, there! 
 
-My name is Jorge Gómez Robles, and I am mexican. Currently, I am pursuing a master degree in Data Science at the Eindhoven University of Technology in the Netherlands, and my goal is to get involved in the industry after my graduation - expected by August 2019.
+I am Jorge from Mexico City. As a professional, I define myself as a Data Scientist with a special interest in Machine Learning. As an individual, I like to see myself as a curious guy always trying to avoid the comfort zone :).
 
-My main intereset is in Machine Learning and its application as reliable and robust software components. In specific, I had the opportunity to deepen into Automatic Machine Learning (AutoML) as part of an internship program in cooperation with Achmea, where I developed a python package for the automatic discovery of machine learning pipelines for classification tasks. In addition, for my master's thesis I am now studying Neural Architecture Search (NAS) using deep meta-reinforcement learning to learn transferable strategies to automatically build neural networks for image classification.
+**The professional *me*.**
 
-Before my master studies, I worked as a Software Engineer at Oracle, where I was part of the Development Infrastructure team in charge of designing and improving the Continuous Integration (CI) workflow for the Oracle Management Cloud (OMC). Later, during my break periods in my master program, I remotely contributed to XYB to build a CI workflow for an AWS ECS architecture. In older working experiences, I have performed as a software analyst and web developer.
+My formation started as a Computer Engineer and later I moved into the Data Science world. I embrace the idea that to make the best out of data, statistics and probability are just as important as algorithms and programming. Thus, I like analyzing and learning from data but also developing robust code on the way.
 
+My experience in Data Science ranges Data Analysis/Wrangling/Visualization, Statistical Testing, Machine/Deep Learning, Computer Vision, Reinforcement Learning, Automatic Machine Learning, and Neural Architecture Search. Apart from these topics, I am interested in Natural Langue Processing. On the engineering side, I have experience in Continous Integration, Cloud Infrastructure development, and I am familiar with a variety of programming languages.
 
+Right now, I am looking for challenges in the industry, for Data Science and Machine Learning roles. Because data is everywhere and each dataset brings different questions, I am open to any sector as long as technology drives the business. If you are interested in my profile, please get in touch through any of the options at the bottom of this page.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.  -->
 
 <!-- Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.  -->
 
+**The out-of-office *me*.**
+
+I try to keep a balance between my professional and my personal life. I particularly invest time with my loved ones. I like listening to music and from time to time playing the guitar. Traveling and getting to know other cultures is an important part of my life too. 
+
+Right now, I am learning the Mexican Sign Language to help to build a more inclusive society. Also, I am very interested in learning how to decrease my carbon footprint and how to adapt to climate change.
 
 <br/>
 <hr/>
