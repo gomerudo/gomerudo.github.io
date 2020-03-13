@@ -1,0 +1,6 @@
+# Hidden files
+.*
+shared_files/
+*.lock
+
+_site

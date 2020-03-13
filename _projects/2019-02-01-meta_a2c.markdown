@@ -1,0 +1,8 @@
+---
+layout: project
+title: The meta-A2C learner
+description: A TensorFlow implementation of the meta-A2C algorithm proposed in DeepMind's paper "Learning to reinforcement learn". The code is written on top of the OpenAI baselines to enable straightforward integration with Gym environments.
+year: 2019
+type: software
+purl: https://github.com/gomerudo/openai-baselines
+---

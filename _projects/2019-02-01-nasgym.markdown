@@ -1,0 +1,8 @@
+---
+layout: project
+title: NasGym
+description: An OpenAI Gym environment for reproducible and comparable Neural Architecture Search with reinforcement learning. The default search space is inspired by BlockQNN and the performance estimation strategy is early-stop. It runs with TensorFlow and allows distributed training. The default datasets are CIFAR-10 and the meta-dataset. The code allows to plug-in different search spaces, performance estimation strategies, and datasets.
+year: 2019
+type: software
+purl: https://github.com/gomerudo/nas-env
+---

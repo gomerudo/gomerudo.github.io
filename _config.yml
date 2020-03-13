@@ -21,7 +21,7 @@ collections:
   resume:
     output: true
     permalink: /resume/:path/
-  poetry:
+  projects:
     output: true
-    permalink: /poetry/:path/
+    permalink: /projects/:path/
 

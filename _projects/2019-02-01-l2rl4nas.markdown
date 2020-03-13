@@ -1,0 +1,8 @@
+---
+layout: project
+title: Learning to reinforcement learn for Neural Architecture Search
+description: A novel approach to learning transferable RL policies through meta-learning to quickly design CNNs for image classification.
+year: 2019
+type: research
+purl: https://arxiv.org/abs/1911.03769
+---
