@@ -7,27 +7,22 @@ permalink: /about/
 <img class="col one right" src="/img/profile_pic.jpg">
 
 <br/>
-Hi, there! 
+Hi, there! I am Jorge from Mexico City.
 
-I am Jorge from Mexico City. As a professional, I define myself as a Data Scientist with a special interest in Machine Learning. As an individual, I like to see myself as a curious guy always trying to avoid the comfort zone :).
+As a professional, I define myself as a Computer Scientist with a special interest in ML. As an individual, I like to see myself as a curious guy always trying to avoid the comfort zone :).
 
 **The professional *me*.**
 
-My formation started as a Computer Engineer and later I moved into the Data Science world. I embrace the idea that to make the best out of data, statistics and probability are just as important as algorithms and programming. Thus, I like analyzing and learning from data but also developing robust code on the way.
+I started my career as a Software Engineer and later I moved into the world of Data Science. I embrace the idea that to make the best out of data, theory is just as important as one's hands-on skills. Thus, I like dealing with papers and the properties of data but developing robust code and pipelines on the way too.
 
-My experience in Data Science ranges Data Analysis/Wrangling/Visualization, Statistical Testing, Machine/Deep Learning, Computer Vision, Reinforcement Learning, Automatic Machine Learning, and Neural Architecture Search. Apart from these topics, I am interested in Natural Langue Processing. On the engineering side, I have experience in Continous Integration, Cloud Infrastructure development, and I am familiar with a variety of programming languages.
+Right now, I work as an ML Engineer researching and applying deep learning for the healthcare industry. Previously, I researched novel methods for AutoML and Neural Architecture Search using reinforcement learning and meta-learning.
 
-Right now, I am looking for challenges in the industry, for Data Science and Machine Learning roles. Because data is everywhere and each dataset brings different questions, I am open to any sector as long as technology drives the business. If you are interested in my profile, please get in touch through any of the options at the bottom of this page.
+On the engineering side, I have experience with cloud infrastructure, DevOps, MLOps, management of databases and data lakes, and simple web development. I am knowledgeable in several programming languages and frameworks.
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite <a href="http://reddit.com" target="blank">subreddit</a>. You can put a picture in, too. The code is already in, just name your picture "prof_pic.jpg" and put it in the img folder.  -->
-
-<!-- Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="blank">Font Awesome icons</a>, like the ones below. Add your facebook, twitter, linkedin, or just disable all of them.  -->
 
 **The out-of-office *me*.**
 
-I try to keep a balance between my professional and my personal life. I particularly invest time with my loved ones. I like listening to music and from time to time playing the guitar. Traveling and getting to know other cultures is an important part of my life too. 
-
-Right now, I am learning the Mexican Sign Language to help to build a more inclusive society. Also, I am very interested in learning how to decrease my carbon footprint and how to adapt to climate change.
+I try to keep a balance between my professional and personal life. I particularly invest time with my loved ones. I like attentively listening to music, playing the guitar, traveling and getting to know other cultures, as well as learning languages — right now, I am learning Italian. I am very interested in helping the battle against climate change too.
 
 <br/>
 <hr/>
@@ -36,8 +31,7 @@ Right now, I am learning the Mexican Sign Language to help to build a more inclu
 	<a href="mailto:j.gomezrb.dev@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	<a href="https://github.com/gomerudo" target="_blank"><i class="fa fa-github-square"></i></a>
 	<a href="https://www.linkedin.com/in/jgomezrb" target="_blank"><i class="fa fa-linkedin-square"></i></a>
-	<!-- <a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a>
-	<a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
+	<!-- <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
 </span>
 
 <div class="col three caption">
