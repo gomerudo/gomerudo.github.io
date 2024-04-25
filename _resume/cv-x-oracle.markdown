@@ -1,15 +1,22 @@
 ---
 layout: milestone
-title: Oracle (MDC)
+title: Oracle
 description: Senior Software Developer
 date-start: 2017-09-01
 date-end: 2019-09-30
 img: /img/oracle.jpg
 ---
 
-The first milestone in my working experience is Oracle. In January 2014, I joined the Development Infrastructure team for the Oracle Management Cloud (OMC), as a Software Developer, and I obtained the seniority level in April 2016. 
+In January 2014, I joined the Development Infrastructure team for the Oracle Management Cloud (OMC), 
+and I obtained the seniority level in April 2016. During my time at Oracle, I helped building the 
+development infrastructure of the OMC.
 
-I was the first member of the team located in Mexico, and the rest of the team was distributed in the USA and India. I was fortunate to be under the management of highly experienced and talented people. My local manager was first <a href="https://www.linkedin.com/in/softwarechido/" target="_blank">Carlos Ordoñez</a>, and later <a href="https://www.linkedin.com/in/juan-carlos-pineda-9898418/" target="_blank">Juan Carlos Pineda</a>. In the USA and India, <a href="https://www.linkedin.com/in/todd-guay-a793213/" target="_blank">Todd Guay</a> and <a href="https://www.linkedin.com/in/chandrashekhar-vaishnav-499943110/" target="_blank">Chandrashekhar Vaishnav</a>, respectively.
+My main contributions were the development of scripts for the automation of cloud environments and 
+the creation of a Gradle Plugin to orchestrate the CI/CD of 20+ micro-services in a Jenkins-based 
+pipeline. Some other important contributions were the development of a library to create mocked 
+services for lightweight development, and the enabling of a Sonar-based Code Coverage for the OMC.
+
+<!-- Apart from development tasks, I had the chance to help my team through Git, Gradle, and Chef training. Also, I assisted as a technical interviewer in recruitment processes. -->
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/pic-oracle-tb.jpg" alt="" title="UTC building (2012)"/>
@@ -19,8 +26,6 @@ I was the first member of the team located in Mexico, and the rest of the team w
 	Left picture: An Oracle MDC team building in 2015. Right picture: The Oracle Management Cloud team at Mexico (2015).
 </div>
 
-During my time in Oracle, I executed several tasks to build the Continous Integration infrastructure for a cloud product. I developed Chef scripts for the automation of cloud environments. I started a Gradle Plugin to orchestrate the continuous delivery of 20+ micro-services in a Hudson-based pipeline. I also got involved in SRG and LRG testing, and dependency management via Artifactory. Some other remarkable works were the creation of a library to set up mocked services for lightweight development, and the enabling of a Sonar-based Code Coverage for the OMC.
-
-Apart from development tasks, I had the chance to help my team through Git, Gradle, and Chef training. Also, I assisted as a technical interviewer in recruitment processes.
+I was fortunate to be under the management of highly experienced and talented people throughout those years: <a href="https://www.linkedin.com/in/softwarechido/" target="_blank">Carlos Ordoñez</a>, <a href="https://www.linkedin.com/in/juan-carlos-pineda-9898418/" target="_blank">Juan Carlos Pineda</a>, <a href="https://www.linkedin.com/in/todd-guay-a793213/" target="_blank">Todd Guay</a>, and <a href="https://www.linkedin.com/in/chandrashekhar-vaishnav-499943110/" target="_blank">Chandrashekhar Vaishnav</a>.
 
 I left Oracle in 2017 to <a href="{{ site.baseurl }}/resume/cv-u-tue/">pursue an M.Sc. degree at the Eindhoven University of Technology</a>.

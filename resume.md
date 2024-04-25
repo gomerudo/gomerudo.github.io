@@ -4,7 +4,13 @@ title: resumé
 permalink: /resume/
 ---
 
-For a detailed description of each of my professional and academic milestones, click the images below. You can also get a <a href="https://drive.google.com/open?id=1MW1olQMlSSkfYh6rFFbCUdrTnW2ivXWf" target="_blank">one-page version of my CV</a>. I also encourage you to visit my <a href="https://github.com/gomerudo" target="_blank">Github profile</a> to check out my skills and work, and <a href="https://arxiv.org/search/?searchtype=author&query=Robles%2C+J+G" target="_blank">arXiv</a> for publications.
+For a detailed description of each of my professional and academic milestones, click the images 
+below. You can also get a 
+<a href="https://drive.google.com/open?id=1MW1olQMlSSkfYh6rFFbCUdrTnW2ivXWf" target="_blank">
+one-page version of my CV</a>. I also encourage you to visit my <a 
+href="https://github.com/gomerudo" target="_blank">Github profile</a> to check out my skills and 
+work, and <a href="https://scholar.google.com/citations?user=YrHcTgIAAAAJ&hl=en" 
+target="_blank">Scholar</a> for publications.
 
 {% for project in site.resume %}
 

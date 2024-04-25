@@ -1,21 +1,20 @@
 ---
 layout: milestone
-title: 3Pillar Global
+title: Egnite Health
 description: Data Scientist
 date-start: 2020-06-06
-date-end: Present
+date-end: 2021-12-31
 img: /img/3pillar.png
 ---
 
-<a href="https://www.3pillarglobal.com" target="_blank">3Pillar Global</a> (formerly <a href="https://www.tiempodev.com">Tiempo Development</a> in Mexico) is a consultancy company with several clients around the world. My role here is in two different fronts: working with a specific client and building 3Pillar's offering portfolio in Data Science.
+In a span of one year and a half, I worked at <a href="https://egnitehealth.com" target="_blank">
+Egnite Health</a> researching and applying Computer Vision models to automate the detection of heart
+diseases. Such models were developed in TensorFlow from scratch and trained on Databricks. We 
+explored traditional Convolutional Neural Networks as well as multi-instance learning.
 
-The specific client I work with is <a href="https://egnitehealth.com" target="_blank">Egnite Health</a>. Here, my role is that of an ML Engineer. I research state-of-the-art models in Computer Vision to solve several problems related to heart diseases. In the engineering side, I have developed internal libraries for data wrangling, model training, and other utility functions for the pipeline. Several models have been implemente from scratch with TensorFlow and are tracked with MLFlow.
+In addition to the ML modeling, I developed internal libraries for data wrangling that were 
+HIPAA-compliant. This was critical to ensure the privacy of the patients during model training and
+evaluation. I also developed internal tools that helped domain-experts to evaluate the performance
+of our models.
 
-With respect to the offering portfolio, I work directly with 3Pillar's Head of Data Science. My job is to create an internal portfolio of projects and infrastructure. This includes proposal of internal projects, client engement, mentoring of Jr. Data Scientists, and Data Science education across the whole company.
-
-<!-- <div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/pic-tue-thesis.jpg" alt="" title="Thesis defense at TU/e"/>
-</div> 
-<div class="col three caption">
-	Thesis defense at the TU/e campus. From left to right: dr. George Fletcher, dr. Decebal Mocanu, dr. Joaquin Vanschoren, and I.
-</div> -->
+Some other contributions were survival analyses on tabular data to model the risk of heart disseases.

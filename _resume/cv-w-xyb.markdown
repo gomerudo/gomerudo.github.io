@@ -11,4 +11,4 @@ As a side activity that allowed me to afford my living expenses during my time a
 
 It is possible to explain the work in two stages. In the first stage, I set up and configured a Jenkins server, on an EC2 instance, to build and deploy *development* and *production* pipelines. This part included integration with third-party services such as GitHub and Slack, different Linux management operations, and NGINX maintenance.
 
-In the second stage, the architecture became ECS-based using Docker containers. Different services, including Jenkins, were dockerized and deployed via Go scripting to ECS, S3, and CloudFront.
+In the second stage, the architecture became ECS-based using Docker containers. Different services (including Jenkins) were dockerized and deployed via Go scripting to ECS, S3, and CloudFront.

@@ -9,20 +9,30 @@ permalink: /about/
 <br/>
 Hi, there! I am Jorge from Mexico City.
 
-As a professional, I define myself as a Computer Scientist with a special interest in ML. As an individual, I like to see myself as a curious guy always trying to avoid the comfort zone :).
+As a professional, I define myself as a Computer Scientist with a special interest in ML. As an 
+individual, I like to see myself as a curious guy always trying to avoid the comfort zone 🤓.
 
 **The professional *me*.**
 
-I started my career as a Software Engineer and later I moved into the world of Data Science. I embrace the idea that to make the best out of data, theory is just as important as one's hands-on skills. Thus, I like dealing with papers and the properties of data but developing robust code and pipelines on the way too.
+I started my career as a Software Engineer and later I moved into the world of Data Science. I 
+embrace the idea that to make the best out of data, theory is just as important as one's hands-on 
+skills. Thus, I like dealing with papers and data but developing scalable code and pipelines on the 
+way too.
 
-Right now, I work as an ML Engineer researching and applying deep learning for the healthcare industry. Previously, I researched novel methods for AutoML and Neural Architecture Search using reinforcement learning and meta-learning.
+Right now, I work as an applied ML Engineer building Neural Machine Translation solutions at a
+scale. Previously, I researched and applied deep learning for the healthcare industry. Before that,
+I researched novel methods for AutoML and Neural Architecture Search using reinforcement learning
+and meta-learning.
 
-On the engineering side, I have experience with cloud infrastructure, DevOps, MLOps, management of databases and data lakes, and simple web development. I am knowledgeable in several programming languages and frameworks.
-
+On the engineering side, I have experience with cloud infrastructure, DevOps, MLOps, management of 
+databases and data lakes, and simple web development. I am knowledgeable in several programming 
+languages and frameworks.
 
 **The out-of-office *me*.**
 
-I try to keep a balance between my professional and personal life. I particularly invest time with my loved ones. I like attentively listening to music, playing the guitar, traveling and getting to know other cultures, as well as learning languages — right now, I am learning Italian. I am very interested in helping the battle against climate change too.
+I try to keep a balance between my professional and personal life. I particularly invest time with
+my loved ones. I like going to concerts, playing guitar, swimming, learning languages, traveling and
+getting to know other cultures. I am also very interested in helping the battle against climate change.
 
 <br/>
 <hr/>
